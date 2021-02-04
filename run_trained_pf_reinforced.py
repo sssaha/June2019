@@ -18,7 +18,7 @@ from scipy import linalg as linalg
 from scipy.interpolate import interp1d
 from scipy import stats
 
-import myflows as fnn
+import flows as fnn
 #import myflows as fnn
 import load
 
